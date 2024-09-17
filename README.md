@@ -1,9 +1,9 @@
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=mldatascientist23&color=green) ![GitHub followers](https://img.shields.io/github/followers/mldatascientist23?label=Follow&style=social)
+
 # Transforming Data 📜 into Business Success! 🏆
 
 **𝐖𝐄𝐋𝐂𝐎𝐌𝐄 to my GitHub Repository! Here, you'll find a collection of my projects and implementations related to **Data Analytics**, **Machine Learning**, **Deep Learning**, **Generative AI**, and more. Explore my work and see how I leverage data to drive business success.
  👨‍💼**
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=mldatascientist23&color=green) ![GitHub followers](https://img.shields.io/github/followers/mldatascientist23?label=Follow&style=social)
 
 **I am Hamesh Raj** 👨‍💻, a Data Scientist with two years of expertise in **Machine Learning** 🤖, **Deep Learning** 🧠, **Generative AI** 🌀, and **Data Analysis** 📊. I excel in developing and optimizing Large Language Models (LLMs) 💬, implementing Retrieval-Augmented Generation (RAG) systems 🔄, and creating innovative AI solutions. With proficiency in Python 🐍 and advanced statistical techniques 📈, I transform complex datasets into actionable insights. My experience spans deploying AI models on platforms like Streamlit Cloud ☁️, Kaggle 🏆, Groq Cloud ☁️, and Hugging Face Spaces 🌐. Holding a Master’s in Economics 📚 and a Bachelor’s in Software Engineering 🎓, I am dedicated to leveraging data to drive business success and stay at the forefront of AI advancements.
 
@@ -75,24 +75,10 @@
 I am dedicated to using my analytical skills and technical expertise to contribute to business growth and innovation. Let's connect to explore how we can leverage data and AI to transform your business operations and achieve your strategic goals.
 
 ### 🌐 Connect with Me:
-<a href="https://www.linkedin.com/in/datascientisthameshraj/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/mldatascientist23" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.youtube.com/@TheDigitalWordsmith" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://web.facebook.com/rajoad" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://www.instagram.com/hameshrajoad/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://twitter.com/DataScientist27" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://drive.google.com/file/d/1wngMNHLfop4oF75oB4bqZfUT62CixbMJ/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Download_CV-FFD700?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datascientisthameshraj/){:target="_blank"}
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mldatascientist23){:target="_blank"}
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheDigitalWordsmith){:target="_blank"}
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/rajoad){:target="_blank"}
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hameshrajoad/){:target="_blank"}
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DataScientist27){:target="_blank"}
+[![Download CV/Resume](https://img.shields.io/badge/Download_CV-FFD700?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1wngMNHLfop4oF75oB4bqZfUT62CixbMJ/view?usp=sharing){:target="_blank"}
