@@ -75,24 +75,24 @@
 I am dedicated to using my analytical skills and technical expertise to contribute to business growth and innovation. Let's connect to explore how we can leverage data and AI to transform your business operations and achieve your strategic goals.
 
 ### 🌐 Connect with Me:
-<a href="https://www.linkedin.com/in/datascientisthameshraj/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/datascientisthameshraj/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/mldatascientist23" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/mldatascientist23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.youtube.com/@TheDigitalWordsmith" target="_blank" rel="noopener noreferrer">
+<a href="https://www.youtube.com/@TheDigitalWordsmith" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
-<a href="https://web.facebook.com/rajoad" target="_blank" rel="noopener noreferrer">
+<a href="https://web.facebook.com/rajoad" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-<a href="https://www.instagram.com/hameshrajoad/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/hameshrajoad/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://twitter.com/DataScientist27" target="_blank" rel="noopener noreferrer">
+<a href="https://twitter.com/DataScientist27" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-<a href="https://drive.google.com/file/d/1wngMNHLfop4oF75oB4bqZfUT62CixbMJ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+<a href="https://drive.google.com/file/d/1wngMNHLfop4oF75oB4bqZfUT62CixbMJ/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-FFD700?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV/Resume" />
 </a>
