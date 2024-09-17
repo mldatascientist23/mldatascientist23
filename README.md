@@ -41,7 +41,37 @@
 - **AI Chatbots & Generative AI** 🤖: Experienced in developing intelligent chatbots and generative AI applications.
   
 ## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23D23669.svg?style=plastic&logo=huggingface&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=plastic&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%23FF8C00.svg?style=plastic&logo=ai&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-%23FF4B4B.svg?style=plastic&logo=gradio&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%232E7D32.svg?style=plastic&logo=language&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-%2300A8E1.svg?style=plastic&logo=faiss&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-%232F80ED.svg?style=plastic&logo=diffusion&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-%23000000.svg?style=plastic&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-%232D72D9.svg?style=plastic&logo=gemini&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-%2300A3E0.svg?style=plastic&logo=kaggle&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-%23D80032.svg?style=plastic&logo=groq&logoColor=white)
 
 ## 🚀 Empowering Your Business with Data-Driven Insights
 I am dedicated to using my analytical skills and technical expertise to contribute to business growth and innovation. Let's connect to explore how we can leverage data and AI to transform your business operations and achieve your strategic goals.
