@@ -6,12 +6,22 @@ Explore my portfolio featuring projects in **Data Analytics**, **Machine Learnin
 
 **I am Hamesh Raj** 👨‍💻, a **Data Scientist** and **Pakistan Engineering Council (PEC) Registered Engineer** with over **2 years of professional experience** specializing in **Machine Learning** 🤖, **Deep Learning** 🧠, **Generative AI** 🌀, and **MLOps** ⚙️. My expertise includes developing and fine-tuning **Large Language Models (LLMs)** 💬, implementing **Retrieval-Augmented Generation (RAG)** 🔄, and deploying AI applications on platforms like **Streamlit**, **Hugging Face Spaces**, **Kaggle**, and **Groq Cloud**.  
 
-I hold the following certifications:  
+## Certifications & Expertise:  
+I bring a strong background in AI, data science, and automation, backed by industry-recognized certifications:  
+
+- **Top Performer C1 PEC Generative AI Training Cohort 1** – [View Credential](https://credsverse.com/credentials/aa09a2af-15dd-42c4-8982-0147acc16277)  
 - **Essential Generative AI Training** – **Pak Angels, San Jose, California, USA**  
+  [View Credential](https://credsverse.com/credentials/4d6bd2db-6987-4b90-baff-9407209e77c3)  
 - **Advanced Digital Skills in Data Science (Machine Learning & Deep Learning)** – **UNDP Pakistan**  
+  [View Credential](https://www.linkedin.com/in/datascientisthameshraj/details/certifications/1722345077265/single-media-viewer/?type=IMAGE&profileId=ACoAAASUVaABPv-GIAMwzkfhgjeWkFwEtK8bEXs-)  
+- **Machine Learning, AI & Data Science** – **eHunar.org**  
+  [View Credential](https://lms.ehunar.org/certificate/f0def23c3f)  
 - **Six Months AI and Data Science Mentorship Program** – **Codanics**  
-- **Advanced Certification in Data Science with AI** – **Ashraf Chaudhry Associates ** 
+  [View Credential](https://codanics.com/tutor-certificate/?cert_hash=752915eeed3d9ea7)  
+- **Advanced Certification in Data Science with AI** – **Ashraf Chaudhry Associates**  
+  [View Credential](https://www.linkedin.com/in/datascientisthameshraj/details/certifications/1712379311013/single-media-viewer/?profileId=ACoAAASUVaABPv-GIAMwzkfhgjeWkFwEtK8bEXs-)  
 - **Python Ka Chilla (40 Days Python for Data Science)** – **Codanics**  
+  [View Credential](https://codanics.com/tutor-certificate/?cert_hash=0bbfdc4323fa4757)
 
 With a **Master’s degree in Economics** and a **Bachelor’s degree in Software Engineering**, I combine strong analytical skills with technical expertise to deliver innovative solutions. Proficient in **Python**, **Pandas**, **Matplotlib**, **Numpy**, **Seaborn**, **Dash**, **Plotly**, **TensorFlow**, **OpenCV**, **NLTK**, **Bokeh**, **PyTorch**, **Keras**, **Scipy** and **Scikit-learn**, I transform data into actionable insights, empowering businesses to achieve their strategic goals.  
 
