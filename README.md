@@ -2,26 +2,21 @@
 
 # Transforming Data 📜 into Business Success! 🏆
 
-Explore my portfolio featuring projects in **Data Analytics**, **Machine Learning**, **Deep Learning**, **Generative AI**, **Agent AI**, **MLOps**, and more. Discover how I leverage cutting-edge technologies to deliver business-driven solutions.  
+Explore my portfolio featuring projects in **Artificial Intelligence**, **Data Science**, **Machine Learning**, **Deep Learning**, **Generative AI**, **Agent AI**, **MLOps**, and more. Discover how I leverage cutting-edge technologies to deliver business-driven solutions.
 
-**I am Hamesh Raj** 👨‍💻, a **Data Scientist** and **Pakistan Engineering Council (PEC) Registered Engineer** with over **2 years of professional experience** specializing in **Machine Learning** 🤖, **Deep Learning** 🧠, **Generative AI** 🌀, and **MLOps** ⚙️. My expertise includes developing and fine-tuning **Large Language Models (LLMs)** 💬, implementing **Retrieval-Augmented Generation (RAG)** 🔄, and deploying AI applications on platforms like **Streamlit**, **Hugging Face Spaces**, **Kaggle**, and **Groq Cloud**.  
+**I am Hamesh Raj** 👨‍💻, a **PEC Registered Engineer** and **Data Scientist** with 2+ years of experience in developing AI-powered and data-driven applications. I specialize in **LLMs**, **Chatbots**, **Data Science Workflows**, **Computer Vision**, and **Deployment Engineering**.
 
-## Certifications & Expertise:  
+## 🎓 Certifications & Credentials
 I bring a strong background in AI, data science, and automation, backed by industry-recognized certifications:  
 
-- **Top Performer C1 PEC Generative AI Training Cohort 1** – [View Credential](https://credsverse.com/credentials/aa09a2af-15dd-42c4-8982-0147acc16277)  
-- **Essential Generative AI Training** – **Pak Angels, San Jose, California, USA**  
-  [View Credential](https://credsverse.com/credentials/4d6bd2db-6987-4b90-baff-9407209e77c3)  
-- **Advanced Digital Skills in Data Science (Machine Learning & Deep Learning)** – **UNDP Pakistan**  
-  [View Credential](https://www.linkedin.com/in/datascientisthameshraj/details/certifications/1722345077265/single-media-viewer/?type=IMAGE&profileId=ACoAAASUVaABPv-GIAMwzkfhgjeWkFwEtK8bEXs-)  
-- **Machine Learning, AI & Data Science** – **eHunar.org**  
-  [View Credential](https://lms.ehunar.org/certificate/f0def23c3f)  
-- **Six Months AI and Data Science Mentorship Program** – **Codanics**  
-  [View Credential](https://codanics.com/tutor-certificate/?cert_hash=752915eeed3d9ea7)  
-- **Advanced Certification in Data Science with AI** – **Ashraf Chaudhry Associates**  
-  [View Credential](https://www.linkedin.com/in/datascientisthameshraj/details/certifications/1712379311013/single-media-viewer/?profileId=ACoAAASUVaABPv-GIAMwzkfhgjeWkFwEtK8bEXs-)  
-- **Python Ka Chilla (40 Days Python for Data Science)** – **Codanics**  
-  [View Credential](https://codanics.com/tutor-certificate/?cert_hash=0bbfdc4323fa4757)
+- **Google AI Essentials (2025)** – [Coursera Link](https://coursera.org/share/80723e6d790a1e03fd8c3f5ed4055f67) | [Credly Link](https://www.credly.com/badges/929e06d7-8860-4644-b7e6-8d1724f561b3/public_url)
+- **Top Performer C1 PEC Generative AI Training Cohort 1** – [Credential](https://credsverse.com/credentials/aa09a2af-15dd-42c4-8982-0147acc16277)
+- **Essential Generative AI Training – Pak Angels, San Jose, California, USA** – [Credential](https://credsverse.com/credentials/4d6bd2db-6987-4b90-baff-9407209e77c3)
+- **Advanced Digital Skills in Data Science (ML & DL) – UNDP Pakistan** – [Credential](https://www.linkedin.com/in/datascientisthameshraj/details/certifications/1722345077265/single-media-viewer/?type=IMAGE)
+- **Machine Learning, AI & Data Science – eHunar.org** – [Credential](https://lms.ehunar.org/certificate/f0def23c3f)
+- **Six Months AI and Data Science Mentorship – Codanics** – [Credential](https://codanics.com/tutor-certificate/?cert_hash=752915eeed3d9ea7)
+- **Advanced Certification in Data Science with AI – Ashraf Chaudhry Associates** – [Credential](https://www.linkedin.com/in/datascientisthameshraj/details/certifications/1712379311013/single-media-viewer)
+- **Python Ka Chilla (40 Days Python for Data Science) – Codanics** – [Credential](https://codanics.com/tutor-certificate/?cert_hash=0bbfdc4323fa4757)
 
 With a **Master’s degree in Economics** and a **Bachelor’s degree in Software Engineering**, I combine strong analytical skills with technical expertise to deliver innovative solutions. Proficient in **Python**, **Pandas**, **Matplotlib**, **Numpy**, **Seaborn**, **Dash**, **Plotly**, **TensorFlow**, **OpenCV**, **NLTK**, **Bokeh**, **PyTorch**, **Keras**, **Scipy** and **Scikit-learn**, I transform data into actionable insights, empowering businesses to achieve their strategic goals.  
 
@@ -59,6 +54,34 @@ With a **Master’s degree in Economics** and a **Bachelor’s degree in Softwar
 
 ---
 
+## 💡 Expertise Highlights
+
+🔹 **Artificial Intelligence & Generative AI**: ChatGPT, Claude, Gemini, LLaMA, Stable Diffusion, OpenAI, Google AI, Hugging Face Transformers  
+🔹 **Data Science**: Exploratory Data Analysis (EDA), Feature Engineering, Data Wrangling, Cleaning, Preprocessing, Statistical Analysis  
+🔹 **Machine Learning**: Regression, Classification, Ensemble Methods, Time Series Forecasting, AutoML, Explainable AI (XAI)  
+🔹 **Deep Learning**: CNNs, RNNs, LSTMs, Attention Mechanisms, GANs, Neural Networks for Vision/NLP  
+🔹 **Natural Language Processing (NLP)**: Tokenization, Summarization, NER, Text Classification, Sentiment Analysis, LangChain, RAG Systems  
+🔹 **Computer Vision**: Object Detection, Image Classification, Facial Recognition, OCR, YOLOv5/v8, OpenCV  
+🔹 **MLOps & AI Deployment**: Model Monitoring, Docker, Kubernetes, MLflow, ONNX, CI/CD, FastAPI, Streamlit, Gradio  
+🔹 **Visualization & BI**: Plotly, Power BI, Tableau, Dash, Seaborn, Matplotlib  
+🔹 **APIs & Web Apps**: Flask, Django, Streamlit, FastAPI, RESTful APIs  
+🔹 **Cloud Platforms**: AWS, Google Cloud (GCP), Azure, Vertex AI, Cloud Run, Firebase
+
+---
+
+## 🔧 Tools, Libraries & Tech Stack
+**Languages**: Python, SQL, Bash, Markdown, JavaScript  
+**Data Handling**: Pandas, Numpy, Dask, Polars, Openpyxl  
+**ML Frameworks**: Scikit-learn, XGBoost, LightGBM, CatBoost, Auto-sklearn  
+**DL Frameworks**: PyTorch, TensorFlow, Keras, Fastai, ONNX  
+**NLP**: Hugging Face, spaCy, NLTK, T5, BERT, GPT-2/3/4, LangChain  
+**Computer Vision**: OpenCV, PIL, scikit-image, face_recognition, Dlib, MediaPipe  
+**Visualization**: Matplotlib, Seaborn, Plotly, Dash, Bokeh, Tableau, Power BI  
+**MLOps Tools**: Docker, Kubernetes, MLflow, DVC, Weights & Biases, Prefect  
+**Databases**: SQLite, PostgreSQL, MySQL, MongoDB, Firebase, Redis  
+**Cloud & DevOps**: AWS (S3, Lambda, EC2), Google Cloud, Azure, GCP Vertex AI  
+**Others**: Git, GitHub, Jupyter, VS Code, Streamlit Cloud, Hugging Face Spaces
+
 ## 🛠️ Key Skills  
 - **Data Analytics & Business Intelligence** 📊  
 - **Machine Learning & AI Development** 🤖  
@@ -77,9 +100,15 @@ With a **Master’s degree in Economics** and a **Bachelor’s degree in Softwar
 ---
 
 ## 🚀 Empowering Your Business with Data-Driven Insights  
-I am dedicated to using my analytical skills and technical expertise to contribute to business growth and innovation. Let's connect to explore how we can leverage data and AI to transform your business operations and achieve your strategic goals.  
+I am committed to utilising my analytical skills and technical expertise to drive business growth and innovation. Let's connect to explore how we can leverage data and AI to transform your business operations and achieve your strategic goals.  
 
 ---
 
 ### 🌐 Connect with Me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datascientisthameshraj/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mldatascientist23) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923458683817) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheDigitalWordsmith) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/rajoad) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hameshrajoad/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DataScientist27) [![Download CV/Resume](https://img.shields.io/badge/Download_CV-FFD700?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1wngMNHLfop4oF75oB4bqZfUT62CixbMJ/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datascientisthameshraj/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mldatascientist23) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923458683817) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheDigitalWordsmith) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/rajoad) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hameshrajoad/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DataScientist27) [![Download CV/Resume](https://img.shields.io/badge/Download_CV-FFD700?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1QdmUa9qL1FbO-CDn0niZmS2jT2VDWvew/view?usp=sharing)
+
+---
+
+### 🤝 Open for Collaborations:
+
+✅ Startups | ✅ Organizations | ✅ Remote Projects | ✅ AI R&D | ✅ Mentorship for FYP
